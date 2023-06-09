@@ -21,7 +21,7 @@ Visual Studio Code
 Repeat the testing and iteration process until the layout meets your requirements.
 
 ## PROGRAM:
-
+```
 java
 
 <!doctype html>
@@ -73,7 +73,7 @@ java
   </div>
   <footer>Footer</footer>
 </body>
-
+```
 
 ## OUTPUT:
 
